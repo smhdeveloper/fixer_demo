@@ -4,4 +4,5 @@ fixer/handler.py
 fixer_demo.egg-info/PKG-INFO
 fixer_demo.egg-info/SOURCES.txt
 fixer_demo.egg-info/dependency_links.txt
+fixer_demo.egg-info/requires.txt
 fixer_demo.egg-info/top_level.txt

@@ -1,4 +1,5 @@
 Metadata-Version: 2.1
 Name: fixer-demo
-Version: 0.3
+Version: 0.4
 Home-page: https://github.com/smhdeveloper/fixer_demo
+Requires-Dist: requests
